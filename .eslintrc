@@ -10,3 +10,6 @@ extends:
 
 rules:
     no-cond-assign: 0
+
+parserOptions:
+    sourceType: "module"
